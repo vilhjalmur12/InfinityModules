@@ -12,7 +12,7 @@ import '../styles/custom';
 //import Tabs from './Tabs';
 //import Tab from './Components/TabsComponents/Tab';
 //import CartoonNetworkSpinner from './CartoonNetworkSpinner';
-import { CartoonNetworkSpinner } from 'infinity-modules-ui';
+
 
 //import carImage from '../images/242.png';
 //import logo from '../images/logo_loading.png';
